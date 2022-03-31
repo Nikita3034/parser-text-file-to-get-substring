@@ -1,0 +1,36 @@
+
+
+31.03.2022 18:06:23 
+31.03.2022 18:06:24     
+31.03.2022 18:10:09 User: correct request
+31.03.2022 18:10:09 Bot: Select the required option:\n1. Main menu\n2. Sub menu
+31.03.2022 18:45:23 User: bad request
+31.03.2022 18:45:24 Bot: Request not recognized
+31.03.2022 18:45:24 
+31.03.2022 18:45:24     
+31.03.2022 18:46:10 User: bad request
+31.03.2022 18:46:11 Bot: Request not recognized
+31.03.2022 18:46:11 
+31.03.2022 18:46:11     
+31.03.2022 19:00:42 User: correct request
+31.03.2022 19:00:43 Bot: Select the required option:\n1. Main menu\n2. Sub menu
+31.03.2022 19:00:43 User: User pressed the button: \n1. Main menu
+31.03.2022 19:00:43 
+31.03.2022 19:00:43     
+31.03.2022 19:01:39 User: bad request
+31.03.2022 19:01:40 Bot: Request not recognized
+31.03.2022 19:01:40 
+31.03.2022 19:01:40     
+31.03.2022 19:23:49 User: bad request
+31.03.2022 19:23:49 Bot: Request not recognized
+31.03.2022 19:23:49 
+31.03.2022 19:23:50     
+31.03.2022 19:29:09 User: bad request
+31.03.2022 19:29:09 Bot: Request not recognized
+31.03.2022 19:29:09 
+31.03.2022 19:29:10     
+31.03.2022 19:51:53 User: correct request
+31.03.2022 19:51:54 Bot: Select the required option:\n1. Main menu\n2. Sub menu
+31.03.2022 20:04:02 User: User pressed the button: \n1. Main menu
+31.03.2022 20:04:02     
+31.03.2022 20:06:24 

@@ -10,6 +10,6 @@
     `countSymbols, findFirst, findSecond`
     with the ones that suit you (the description of the variables is in `script.js`).
 
-    ### Input:
+### Input:
 
-    ### Output:
+### Output:
